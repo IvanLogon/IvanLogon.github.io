@@ -1,2 +1,2 @@
 # ivanlogon.github.io
-Personal portfolip
+Personal portfolio
